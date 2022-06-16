@@ -37,9 +37,10 @@
 
 ### Others
 
-1. AWS Lambda
+1. **AWS Lambda**
 
-## 3. 참고 자료
+## 4. 참고 자료
 
 ['나도 코딩'님의 파이썬 기초 강의](https://www.inflearn.com/course/%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EB%B3%B8)
+
 [파이썬 웹 스크래핑 강좌](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9B%B9-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91)
