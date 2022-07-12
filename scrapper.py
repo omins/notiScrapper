@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from datetime import date
+from datetime import date, timedelta
 import requests
 import time
 import telegram
@@ -43,4 +43,4 @@ for notice in noticeList:
         bot.send_message(text=feed, chat_id=CHAT_ID)
         time.sleep(2)
     else:
-        break
+        continue
